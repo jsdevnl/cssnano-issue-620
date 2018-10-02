@@ -5,7 +5,10 @@
   "dependencies": {},
   "devDependencies": {
     "cssnano": "4.1.4",
-    "cssnano-preset-advanced": "4.0.2"
+    "cssnano-preset-advanced": "4.0.0-rc.2"
   },
-  "scripts": {}
+  "scripts": {},
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
