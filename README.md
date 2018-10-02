@@ -16,7 +16,7 @@ Run postcss with config provided in this repo:
 postcss stylesheet.css > test.css
 ```
 
-Results with different cssnano-preset-advanced versions:
+Results with different cssnano-preset-advanced versions (change in `package.json`):
 
 - `4.0.0-rc.2`: result size: 305 bytes
-- `4.0.2`: result siz: 887 bytes
+- `4.0.2`: result size: 887 bytes
